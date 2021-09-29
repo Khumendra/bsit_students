@@ -1,0 +1,31 @@
+Python Data Types:
+      Variables can store data of different types, and different types can do different things.
+      Numeric:
+              - Integer
+              - Float
+              - Complex Number:
+                    x = 3+5j
+                    y = 5j
+                    z = -5j
+
+      Mapping Type:	dict- {'key': 'value'}
+      Boolean Type:	bool
+      Set Type: set - {}
+      Sequence Types:	
+              - list - []
+              - tuple - ()
+              - string - "", ''
+              - range 
+      
+
+Type(): Getting the Data Type
+Type Conversion
+
+
+
+CRUD
+c - create
+r - read
+u - update
+d - delete
+

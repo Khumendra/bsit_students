@@ -1,0 +1,15 @@
+string: group of characters enclosed by
+"....", '...', 
+"""....."""(docstring)
+
+Escape Sequences: 
+  \, \n, \t, \a
+
+formatted string/ f-string/ F-string :
+   
+
+
+help()
+dir()
+
+type()
