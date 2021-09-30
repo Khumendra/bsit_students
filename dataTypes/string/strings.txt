@@ -1,0 +1,26 @@
+slicing and indexing
+
+string methods
+
+>>> course = " python programming"
+>>> course.upper()
+' PYTHON PROGRAMMING'
+>>> course.lower()
+' python programming'
+>>> course.title()
+' Python Programming'
+>>> course.strip()
+'python programming'
+>>> course.find("pro")
+8
+>>> course.replace("p", "j")
+' jython jrogramming'
+>>> "pro" in course
+True
+>>> "pro" not in course
+False
+>>>
+>>> txt = 'Python Programming Language'
+>>> txt.split()
+['Python', 'Programming', 'Language']
+>>>
