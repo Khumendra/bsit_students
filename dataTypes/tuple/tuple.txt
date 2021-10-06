@@ -1,0 +1,6 @@
+tuple: ()
+  duplicates are allowed
+  indexing order is preserved
+  modification is not possible that means tuples are immutable
+
+

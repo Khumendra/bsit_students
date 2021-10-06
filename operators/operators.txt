@@ -16,3 +16,7 @@ Identity operators:
 Membership operators:
   in, not in
 
+
+
+all()
+any()

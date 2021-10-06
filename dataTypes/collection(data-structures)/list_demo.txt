@@ -1,0 +1,35 @@
+list: collection of different elements.
+- duplicates are allowed
+- order is preserved
+- modification is possible (mutable)
+
+  - create a list:
+      - Empty list []
+      - list of value [1, 2, 3]
+      - multi-dimensional list [['Geeks', 'For'], ['Geeks']]
+
+  - list with multiple distinct or duplicate elements:
+      - [1, 2, 4, 4, 3, 3, 3, 6, 5]
+      - [1, 2, 'Geeks', 4, 'For', 6, 'Geeks']
+
+
+  - size of list:
+      - len()
+  - Adding Elements to a list:
+      - append(): adds the value at end of the list
+      - insert(position, value): inserts the value at the given position
+      - extend(): extends the values with another iterable at the end
+
+  - Accessing elements from the list:
+    - positive indexing
+    - negative indexing
+    
+  - Removing Elements from the list:
+      - remove():
+      - pop():
+
+  - Slicing of a list
+  # - List Comprehesnion
+  - Operations on list
+  - list methods
+  - del 
